@@ -3,11 +3,6 @@ Simple Kalman Filter Implementation to track the position of an object of unknow
 
 ## Getting Started
 
- We want to track the position of an object of unknown dynamics. We assume that
-the object moves in one dimension. A common model for unkown dynamics is the
-constant jerk model, that is assume that the acceleration is linear. The constant jerk
-model can be represented as follows: x(t) = [pt, vt, at, jt].tranpose(), with the elements being
-position, velocity, acceleration and jerk.
 
 ![SS1](https://github.com/SiddhantNadkarni/Kalman-Filter-CPP/blob/master/Problem%20Statement/Screen%20Shot%202019-09-30%20at%2012.34.53%20AM.png)
 ![SS2](https://github.com/SiddhantNadkarni/Kalman-Filter-CPP/blob/master/Problem%20Statement/Screen%20Shot%202019-09-30%20at%2012.35.11%20AM.png)
