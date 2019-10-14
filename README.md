@@ -1,6 +1,8 @@
 # Kalman-Filter-CPP
 Simple Kalman Filter Implementation to track the position of an object of unknown dynamics and moves in one dimension
 
+[![Coverage Status](https://coveralls.io/repos/github/SiddhantNadkarni/Kalman-Filter-CPP/badge.svg?branch=master)](https://coveralls.io/github/SiddhantNadkarni/Kalman-Filter-CPP?branch=master)
+
 ## Getting Started
 
 
